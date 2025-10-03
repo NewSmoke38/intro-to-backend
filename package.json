@@ -2,11 +2,11 @@
   "name": "intro-to-backend",
   "version": "1.0.0",
   "description": "a tutorial for intro to backend",
-  "main": "src/index.js",
+  "main": "backend/src/index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "start": "node backend/src/index.js",
+    "dev": "nodemon backend/src/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/NewSmoke38/intro-to-backend#readme",
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "mongoose": "^8.18.3",
