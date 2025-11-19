@@ -1,8 +1,8 @@
-# Intro to Backend Development - My YouTube Tutorial
+# Intro to Backend Development - My freeCodeCamp YouTube Tutorial
 
-hi there, this repository contains the code for my "Intro to Backend Development" tutorial published on YouTube!
+hi there, this repository contains the code for my "Intro to Backend Development" video tutorial published on the freeCodeCamp YouTube channel!
 
-➡️ **Watch me teach the full tutorial here:** [Link]
+➡️ **Watch me teach the full tutorial here:** [[Link](https://www.youtube.com/watch?v=KOutPbKc9UM&t=4194s)]
 
 ## ☑️ What You'll Learn in this video
 
