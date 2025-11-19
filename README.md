@@ -4,6 +4,8 @@ hi there, this repository contains the code for my "Intro to Backend Development
 
 ➡️ **Watch me teach the full tutorial here:** [[Link](https://www.youtube.com/watch?v=KOutPbKc9UM&t=4194s)]
 
+[![Watch the freeCodeCamp Tutorial](https://img.youtube.com/vi/KOutPbKc9UM/maxresdefault.jpg)](https://www.youtube.com/watch?v=KOutPbKc9UM)
+
 ## ☑️ What You'll Learn in this video
 
 * Learn what a backend is and its core components.
