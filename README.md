@@ -4,6 +4,9 @@ hi there, this repository contains the code for my "Intro to Backend Development
 
 ➡️ **Watch me teach the full tutorial here:** [[Link](https://www.youtube.com/watch?v=KOutPbKc9UM&t=4194s)]
 
+➡️ **NOTES:** [[Link](https://excalidraw.com/#json=MZ-nK2h_8IKWFL0Nm1gxH,QJrqIq4vpqwtzvjh4YMFIA)]
+
+
 [![Watch the freeCodeCamp Tutorial](https://img.youtube.com/vi/KOutPbKc9UM/maxresdefault.jpg)](https://www.youtube.com/watch?v=KOutPbKc9UM)
 
 ## ☑️ What You'll Learn in this video
